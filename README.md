@@ -20,9 +20,9 @@ When creating an application it is important to think about the organization of 
 
 **Branch**: setup-on-off
 
-- As a user, I can see a square box on the screen with a black border and a white background.
-- As a user, I can see the word "off" inside the box.
-- As a user, every time I click on the box the word toggles between the word "off" and the word "on."
+- As a user, I can see a square box on the screen with a black border and a white background.✅
+- As a user, I can see the word "off" inside the box.✅
+- As a user, every time I click on the box the word toggles between the word "off" and the word "on."✅
 - As a user, when I see the word "off" the background color of the box is white.
 - As a user, when I see the word "on" the background color of the box is yellow.
 - As a user, I can see many boxes on the page all acting independently of one another.
